@@ -38,6 +38,7 @@ p, it = PageRank(G, alpha)
 # Output the PageRank scores and iterations
 print("PageRank Scores:", p)
 print("Iterations:", it)
+```
 
 ## Features
 
